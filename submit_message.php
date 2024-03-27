@@ -1,9 +1,9 @@
 <?php
 // Підключення до бази даних
-$servername = "127.0.0.1";
-$username = "root";
-$password = "";
-$dbname = "business_card";
+$servername = "fdb1033.awardspace.net";
+$username = "4463700_businesscard";
+$password = "Businesscard123@%";
+$dbname = "4463700_businesscard";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
