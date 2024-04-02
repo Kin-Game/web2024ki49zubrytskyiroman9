@@ -45,3 +45,8 @@ This project aims to create a simple business card website that contains informa
 5. Visit the created domain in your browser to verify functionality.
 
 Link to my website https://mybczr.atwebpages.com/
+
+# Task 4: Authentication: 
+Add authentication using:
+a. GOOGLE api.
+b. login and password
