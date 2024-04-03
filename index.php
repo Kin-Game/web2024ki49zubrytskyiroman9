@@ -28,7 +28,7 @@
     </header>
     
     <div class="container">
-        <!-- Секція з інформацією про вас -->
+        <!-- Секція з інформацією про мене -->
         <section id="about-me">
             <h2>About Me</h2>
             <p>My name is Roman Zubrytskyi, I am a 4th-year student, studying at the National University of Lviv Polytechnic, majoring in computer engineering</p>
