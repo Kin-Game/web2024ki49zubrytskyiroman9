@@ -1,9 +1,9 @@
 <?php
 // Підключення до бази даних
-$servername = "127.0.0.1";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "business_card";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

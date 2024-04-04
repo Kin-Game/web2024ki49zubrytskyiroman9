@@ -35,3 +35,13 @@ This project aims to create a simple business card website that contains informa
 3. Interact with the forms and input fields using POST and GET methods.
 4. Observe the dynamic loading of page elements based on user input using AJAX method.
 
+# Task 3: Deploy
+## Deploy site to hosting
+
+1. Register on the website https://cp1.awardspace.net/.
+2. Create a free domain.
+3. Configure and connect your database to the hosting.
+4. Upload your website files wich code to the hosting.
+5. Visit the created domain in your browser to verify functionality.
+
+Link to my website https://mybczr.atwebpages.com/
